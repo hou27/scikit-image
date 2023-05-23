@@ -1,0 +1,18 @@
+# Remove all virtual environments
+/venv*
+
+# Remove all log files
+*.log
+
+# Remove all .pyc files
+*.pyc
+
+# Remove all ide files
+.idea
+.vscode
+
+# Remove mac files
+.DS_Store
+
+# Remove dataset files
+siamese-net/content/*
